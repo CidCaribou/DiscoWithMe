@@ -12906,23 +12906,3 @@ Error generating stack: ` + l.message + `
     }));
 
 }
-/*
-     FILE ARCHIVED ON 15:32:44 Jan 27, 2025 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 02:08:22 Feb 14, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.662
-  exclusion.robots: 0.037
-  exclusion.robots.policy: 0.02
-  esindex: 0.015
-  cdx.remote: 4.759
-  LoadShardBlock: 134.175 (3)
-  PetaboxLoader3.datanode: 106.027 (4)
-  PetaboxLoader3.resolve: 193.11 (2)
-  load_resource: 204.383
-*/
