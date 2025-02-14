@@ -926,7 +926,7 @@ if (!self.__WB_pmw) {
         var i = Ns()
           , u = up();
         function a(e) {
-            for (var t = "https://web.archive.org/web/20250127153244/https://reactjs.org/docs/error-decoder.html?invariant=" + e, n = 1; n < arguments.length; n++)
+            for (var t = "https://reactjs.org/docs/error-decoder.html?invariant=" + e, n = 1; n < arguments.length; n++)
                 t += "&args[]=" + encodeURIComponent(arguments[n]);
             return "Minified React error #" + e + "; visit " + t + " for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
         }
@@ -12431,7 +12431,7 @@ Error generating stack: ` + l.message + `
           , [k,S] = I.useState({
             content: "",
             username: "Disco With Me",
-            avatar_url: "https://web.archive.org/web/20250127153244/https://cdn.discordapp.com/embed/avatars/0.png"
+            avatar_url: "https://cdn.discordapp.com/embed/avatars/0.png"
         })
           , [C,N] = I.useState()
           , [L,O] = I.useState(1e3)
@@ -12627,9 +12627,9 @@ Error generating stack: ` + l.message + `
                                     children: [_.jsx("span", {
                                         children: "Avatar:"
                                     }), d != null && d.avatar ? _.jsx("img", {
-                                        src: `https://web.archive.org/web/20250127153244/https://cdn.discordapp.com/avatars/${d == null ? void 0 : d.id}/${d == null ? void 0 : d.avatar}.webp?size=80`,
+                                        src: `https://cdn.discordapp.com/avatars/${d == null ? void 0 : d.id}/${d == null ? void 0 : d.avatar}.webp?size=80`,
                                         className: "w-7 h-7 rounded-full cursor-pointer",
-                                        onClick: () => G(`https://web.archive.org/web/20250127153244/https://cdn.discordapp.com/avatars/${d == null ? void 0 : d.id}/${d == null ? void 0 : d.avatar}.webp?size=4096`),
+                                        onClick: () => G(`https://cdn.discordapp.com/avatars/${d == null ? void 0 : d.id}/${d == null ? void 0 : d.avatar}.webp?size=4096`),
                                         alt: "No avatar"
                                     }) : _.jsx("span", {
                                         className: "text-muted",
