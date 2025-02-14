@@ -12431,7 +12431,7 @@ Error generating stack: ` + l.message + `
           , [k,S] = I.useState({
             content: "",
             username: W.username,
-            avatar_url: W.avatar_url,
+            avatar_url: W.avatar_url
         })
           , [C,N] = I.useState()
           , [L,O] = I.useState(1e3)
